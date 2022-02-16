@@ -2,7 +2,7 @@
 
 Wallace here.
 
-I'm a Brazilian software developer.
+I'm a 🇧🇷 Brazilian software developer.
 
 I have a Bachelor degree in Computer Sciences and I've been working as an IT Analyst since 2017.
 
