@@ -7,9 +7,9 @@ I'm a Brazilian software developer. 🇧🇷
 I have a Bachelor degree in Computer Sciences and I've been working as an IT Analyst since 2017.
 
 My work and academic experience consists mostly in Java and Android development.
-At my current job, I work with Python and Django—that'd be as recent as January, 2021.
+At my current job, I'm experiencing working with Python and Django (since Jan 2021).
 
-Right now, I'm defining a stack to specialize in. So far, I've considered the following technologies, so I'll start there:
+Right now, I'm defining a stack to specialize in. So far, I've considered the following technologies, so I'll start from there:
 - Front-end: Angular (web) and Android/Flutter (mobile).
 - Back-end: Django and PostgreSQL.
 
