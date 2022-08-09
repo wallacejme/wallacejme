@@ -9,11 +9,7 @@ I have a Bachelor degree in Computer Sciences and I've been working as an IT Ana
 My work and academic experience consists mostly in Java and Android development.
 At my current job, I'm experiencing working with Python and Django (since Jan 2021).
 
-Right now, I'm defining a stack to specialize in. So far, I've considered the following technologies, so I'll start from there:
-- Front-end: Angular (web) and Android/Flutter (mobile).
-- Back-end: Django and PostgreSQL.
-
-Some of my progress on those technologies will be visible in my Github profile.
+I intend to specialize in a specific stack. Some of my progress no that journey will be shown here.
 
 [**I write a blog** where I share my thoughts](https://medium.com/escopos) on the Software Development world. For now, it's published only in Portuguese.
 
@@ -25,7 +21,7 @@ For further information, you can [check my **LinkedIn** profile here](https://li
 
 I love learning about natural languages. I'm fascinated by their structure (typical programmer), and specially by the way they are unique at the same time that they share some essential concepts. I believe that teaches a lot about our nature. Not less important, learning languages is, maybe above everything, a thrilling and enriching cultural journey.
 
-I fluently speak: `en`, `pt-BR`. On my to-learn list, I have: `it`, `es`, `ar`.
+I fluently speak: `en`, `pt-BR`. On my to-learn list: `it`, `es`, `ar`.
 
 <!---
 wallacejme/wallacejme is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
