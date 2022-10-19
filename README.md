@@ -2,16 +2,16 @@
 
 Wallace here.
 
-I'm a Brazilian software developer. 🇧🇷
+I'm a Brazilian full-stack software developer. 🇧🇷
 
 I have a Bachelor degree in Computer Sciences and I've been working as an IT Analyst since 2017.
 
 My work and academic experience consists mostly in Java and Android development.
-At my current job, I'm experiencing working with Python and Django (since Jan 2021).
+At my current job, I'm experiencing working with Python and Django since Jan 2021.
 
-I intend to specialize in a specific stack. Some of my progress no that journey will be shown here.
+I intend to specialize in a specific stack. Some of my progress on that journey will be shown here.
 
-[**I write a blog** where I share my thoughts](https://medium.com/escopos) on the Software Development world. For now, it's published only in Portuguese.
+<!-- [**I write a blog** where I share my thoughts](https://medium.com/escopos) on the Software Development world. For now, it's published only in Portuguese. -->
 
 For further information, you can [check my **LinkedIn** profile here](https://linkedin.com/in/wallacejme).
 
